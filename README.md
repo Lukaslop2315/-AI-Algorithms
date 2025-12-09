@@ -1,0 +1,1 @@
+A collection of AI/ML algorithms implemented for learning, experimentation, and research. Each module is designed to be easy to understand for others and myself and all can be run, in there specific IDE's (this wont be all in a single language)
